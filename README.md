@@ -1,6 +1,6 @@
 # Light XML Viewer & WYSIWYG Editor (Python + Tkinter)
 
-A lightweight, zero-dependency visual XML viewer and WYSIWYG editor built with Python and Tkinter.
+A lightweight, zero-dependency visual XML viewer and WYSIWYG editor built with Python and Tkinter and with help of Antigravity AI.
 
 ---
 
