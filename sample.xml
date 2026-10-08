@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog name="Bookstore Catalog" version="2.0">
+    <storeInfo location="Downtown" openYear="1998">
+        <description>The premier classic &amp; modern book repository.</description>
+        <contact email="contact@bookstore.example" phone="+1-555-0199"/>
+    </storeInfo>
+    <books>
+        <book id="bk101" genre="Computer" inStock="true">
+            <author>Gambardella, Matthew</author>
+            <title>XML Developer's Guide</title>
+            <price currency="USD">44.95</price>
+            <publish_date>2000-10-01</publish_date>
+            <description>An in-depth look at creating applications with XML.</description>
+        </book>
+        <book id="bk102" genre="Fantasy" inStock="false">
+            <author>Ralls, Kim</author>
+            <title>Midnight Rain</title>
+            <price currency="USD">5.95</price>
+            <publish_date>2000-12-16</publish_date>
+            <description>A former architect battles corporate zombies.</description>
+        </book>
+        <book id="bk103" genre="Sci-Fi" inStock="true">
+            <author>Corets, Eva</author>
+            <title>Maeve Ascendant</title>
+            <price currency="EUR">12.50</price>
+            <publish_date>2001-11-17</publish_date>
+            <description>After the collapse of a star, survivors build an orbital sanctuary.</description>
+        </book>
+    </books>
+</catalog>
